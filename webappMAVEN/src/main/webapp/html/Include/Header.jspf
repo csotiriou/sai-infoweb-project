@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Control Panel</title>
+<style type="text/css">
+.headerRounded {
+	-webkit-box-shadow: 0px 4px 5px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow: 0px 4px 5px rgba(50, 50, 50, 0.75);
+	box-shadow: 0px 4px 5px rgba(50, 50, 50, 0.75);
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	background-color: #2326F8;
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 25px;
+	padding: 5px;
+}
+
+.floatRight{
+	float:right;
+	padding-right: 10px;
+	font-size: 12pt;
+	color: white;
+}
+</style>
+</head>
+<body>
+	<div class="headerRounded">Welcome to the control panel</div>
+	<hr />

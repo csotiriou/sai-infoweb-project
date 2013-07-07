@@ -1,0 +1,60 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$protocol_a_f_multipart_form_data-p.html" title="\&lt;AFMultipartFormData\&gt;" alt="" coords="225,5,380,32"/>
+<area shape="rect" id="node2" href="$interface_a_f_streaming_multipart_form_data.html" title="AFStreamingMultipartFormData" alt="" coords="464,5,661,32"/>
+<area shape="rect" id="node3" href="$protocol_k_b_keyboard_handler_delegate-p.html" title="\&lt;KBKeyboardHandlerDelegate\&gt;" alt="" coords="201,1525,405,1552"/>
+<area shape="rect" id="node4" href="$category_login_view_controller_07_08.html" title="LoginViewController()" alt="" coords="493,1525,633,1552"/>
+<area shape="rect" id="node6" href="$interface_a_f_h_t_t_p_client.html" title="AFHTTPClient" alt="" coords="512,1019,613,1045"/>
+<area shape="rect" id="node8" href="$interface_a_f_u_r_l_connection_operation.html" title="AFURLConnectionOperation" alt="" coords="471,1373,654,1400"/>
+<area shape="rect" id="node7" href="$interface_ora_h_t_t_p_client.html" title="OraHTTPClient" alt="" coords="764,1019,871,1045"/>
+<area shape="rect" id="node9" href="$interface_a_f_h_t_t_p_request_operation.html" title="AFHTTPRequestOperation" alt="" coords="730,1373,905,1400"/>
+<area shape="rect" id="node10" href="$interface_a_f_image_request_operation.html" title="AFImageRequestOperation" alt="" coords="978,1297,1155,1324"/>
+<area shape="rect" id="node11" href="$interface_a_f_j_s_o_n_request_operation.html" title="AFJSONRequestOperation" alt="" coords="978,1348,1155,1375"/>
+<area shape="rect" id="node13" href="$interface_a_f_property_list_request_operation.html" title="AFPropertyListRequestOperation" alt="" coords="963,1399,1171,1425"/>
+<area shape="rect" id="node14" href="$interface_a_f_x_m_l_request_operation.html" title="AFXMLRequestOperation" alt="" coords="983,1449,1151,1476"/>
+<area shape="rect" id="node12" href="$interface_c_s_j_s_o_n_h_t_t_p_operation.html" title="CSJSONHTTPOperation" alt="" coords="1219,1348,1383,1375"/>
+<area shape="rect" id="node16" href="$category_a_f_h_t_t_p_body_part_07_08.html" title="AFHTTPBodyPart()" alt="" coords="497,1171,628,1197"/>
+<area shape="rect" id="node18" href="$interface_c_s_message.html" title="CSMessage" alt="" coords="515,1424,610,1451"/>
+<area shape="rect" id="node20" href="$interface_a_f_h_t_t_p_body_part.html" title="AFHTTPBodyPart" alt="" coords="501,512,624,539"/>
+<area shape="rect" id="node21" href="$interface_a_f_multipart_body_stream_provider.html" title="AFMultipartBodyStreamProvider" alt="" coords="463,563,663,589"/>
+<area shape="rect" id="node22" href="$interface_a_f_query_string_pair.html" title="AFQueryStringPair" alt="" coords="499,613,626,640"/>
+<area shape="rect" id="node23" href="$interface_a_p_i_device.html" title="APIDevice" alt="" coords="521,1069,604,1096"/>
+<area shape="rect" id="node24" href="$interface_a_p_i_response.html" title="Implements the response for a request. Response JSON example: { &quot;error&quot;: false, &quot;errorDescription&quot;: n..." alt="" coords="511,1221,614,1248"/>
+<area shape="rect" id="node28" href="$interface_a_p_i_student.html" title="APIStudent" alt="" coords="519,1120,606,1147"/>
+<area shape="rect" id="node29" href="$interface_c_s_cache.html" title="CSCache" alt="" coords="523,664,602,691"/>
+<area shape="rect" id="node30" href="$interface_e_x_p_block_defined_matcher.html" title="EXPBlockDefinedMatcher" alt="" coords="479,968,646,995"/>
+<area shape="rect" id="node31" href="$interface_e_x_p_double_tuple.html" title="EXPDoubleTuple" alt="" coords="503,715,623,741"/>
+<area shape="rect" id="node32" href="$interface_e_x_p_dynamic_predicate_matcher.html" title="EXPDynamicPredicateMatcher" alt="" coords="465,917,660,944"/>
+<area shape="rect" id="node33" href="$interface_expecta.html" title="Expecta" alt="" coords="527,765,598,792"/>
+<area shape="rect" id="node34" href="$interface_e_x_p_expect.html" title="EXPExpect" alt="" coords="519,816,607,843"/>
+<area shape="rect" id="node35" href="$interface_e_x_p_float_tuple.html" title="EXPFloatTuple" alt="" coords="509,867,616,893"/>
+<area shape="rect" id="node36" href="$interface_e_x_p_unsupported_object.html" title="EXPUnsupportedObject" alt="" coords="483,56,642,83"/>
+<area shape="rect" id="node37" href="$interface_g_c_d_multicast_delegate.html" title="GCDMulticastDelegate" alt="" coords="486,107,639,133"/>
+<area shape="rect" id="node38" href="$interface_g_c_d_multicast_delegate_enumerator.html" title="GCDMulticastDelegateEnumerator" alt="" coords="454,157,671,184"/>
+<area shape="rect" id="node39" href="$interface_g_c_d_multicast_delegate_node.html" title="GCDMulticastDelegateNode" alt="" coords="471,208,654,235"/>
+<area shape="rect" id="node40" href="$interface_k_b_keyboard_handler.html" title="KBKeyboardHandler" alt="" coords="493,259,632,285"/>
+<area shape="rect" id="node41" href="$interface_o_c_m_arg.html" title="OCMArg" alt="" coords="526,309,599,336"/>
+<area shape="rect" id="node42" href="$interface_o_c_m_constraint.html" title="OCMConstraint" alt="" coords="507,360,618,387"/>
+<area shape="rect" id="node48" href="$interface_s_f_globals.html" title="SFGlobals" alt="" coords="521,411,604,437"/>
+<area shape="rect" id="node49" href="$interface_s_f_utils.html" title="Small utility functions. " alt="" coords="532,461,593,488"/>
+<area shape="rect" id="node25" href="$interface_a_p_i_response_student.html" title="APIResponseStudent" alt="" coords="744,1221,891,1248"/>
+<area shape="rect" id="node26" href="$interface_api_response_student_info.html" title="Implements the response for a student info request. Response JSON example: { &quot;error&quot;: false..." alt="" coords="735,1272,899,1299"/>
+<area shape="rect" id="node27" href="$interface_a_p_i_status_response.html" title="APIStatusResponse" alt="" coords="747,1323,887,1349"/>
+<area shape="rect" id="node43" href="$interface_o_c_m_any_constraint.html" title="OCMAnyConstraint" alt="" coords="750,411,885,437"/>
+<area shape="rect" id="node44" href="$interface_o_c_m_invocation_constraint.html" title="OCMInvocationConstraint" alt="" coords="733,461,901,488"/>
+<area shape="rect" id="node45" href="$interface_o_c_m_is_nil_constraint.html" title="OCMIsNilConstraint" alt="" coords="750,259,885,285"/>
+<area shape="rect" id="node46" href="$interface_o_c_m_is_not_equal_constraint.html" title="OCMIsNotEqualConstraint" alt="" coords="731,309,904,336"/>
+<area shape="rect" id="node47" href="$interface_o_c_m_is_not_nil_constraint.html" title="OCMIsNotNilConstraint" alt="" coords="741,360,894,387"/>
+<area shape="rect" id="node51" href="$protocol_a_p_i_protocol-p.html" title="\&lt;APIProtocol\&gt;" alt="" coords="252,1272,353,1299"/>
+<area shape="rect" id="node52" href="$protocol_e_x_p_matcher-p.html" title="\&lt;EXPMatcher\&gt;" alt="" coords="249,968,356,995"/>
+<area shape="rect" id="node53" href="$protocol_h_t_t_p_client_delegate-p.html" title="Protocol whose functions can be implemented by all objects willing to receive callback notifications ..." alt="" coords="227,1677,378,1704"/>
+<area shape="rect" id="node57" href="$protocol_j_s_token_field_delegate-p.html" title="\&lt;JSTokenFieldDelegate\&gt;" alt="" coords="222,1475,383,1501"/>
+<area shape="rect" id="node54" href="$interface_network_aware_table_view_controller.html" title="NetworkAwareTableViewController" alt="" coords="453,1677,672,1704"/>
+<area shape="rect" id="node56" href="$interface_network_aware_view_controller.html" title="NetworkAwareViewController" alt="" coords="469,1728,656,1755"/>
+<area shape="rect" id="node55" href="$interface_messages_table_view_controller.html" title="MessagesTableViewController" alt="" coords="720,1677,915,1704"/>
+<area shape="rect" id="node61" href="$interface_pull_refresh_table_view_controller.html" title="PullRefreshTableViewController" alt="" coords="203,1728,402,1755"/>
+<area shape="rect" id="node63" href="$interface_j_s_token_field.html" title="JSTokenField" alt="" coords="515,1576,611,1603"/>
+<area shape="rect" id="node65" href="$interface_student_details_view.html" title="StudentDetailsView" alt="" coords="496,1627,629,1653"/>
+<area shape="rect" id="node67" href="$interface_login_view_controller.html" title="LoginViewController handles the login process, checking if this device is registered, and sending registration messages to the service. " alt="" coords="497,1779,629,1805"/>
+<area shape="rect" id="node68" href="$interface_message_details_view_controller.html" title="MessageDetailsViewController" alt="" coords="465,1829,660,1856"/>
+<area shape="rect" id="node69" href="$interface_student_info_view_controller.html" title="StudentInfoViewController" alt="" coords="480,1880,645,1907"/>
+</map>

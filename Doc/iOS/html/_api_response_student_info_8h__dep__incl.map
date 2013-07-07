@@ -1,0 +1,24 @@
+<map id="InfoWebTests/ApiResponseStudentInfo.h" name="InfoWebTests/ApiResponseStudentInfo.h">
+<area shape="rect" id="node2" href="$_api_response_student_info_8m.html" title="InfoWebTests/ApiResponse\lStudentInfo.m" alt="" coords="737,97,921,138"/>
+<area shape="rect" id="node3" href="$_ora_h_t_t_p_client_8h.html" title="InfoWebTests/OraHTTPClient.h" alt="" coords="945,104,1145,131"/>
+<area shape="rect" id="node4" href="$_app_delegate_8m.html" title="InfoWebTests/AppDelegate.m" alt="" coords="5,376,200,403"/>
+<area shape="rect" id="node5" href="$_network_aware_table_view_controller_8h.html" title="InfoWebTests/NetworkAware\lTableViewController.h" alt="" coords="145,187,335,229"/>
+<area shape="rect" id="node9" href="$_custom_tab_view_controller_8m.html" title="InfoWebTests/CustomTabView\lController.m" alt="" coords="359,187,560,229"/>
+<area shape="rect" id="node10" href="$_login_view_controller_8m.html" title="InfoWebTests/LoginViewController.m" alt="" coords="585,195,812,221"/>
+<area shape="rect" id="node11" href="$_message_details_view_controller_8m.html" title="InfoWebTests/MessageDetails\lViewController.m" alt="" coords="837,187,1035,229"/>
+<area shape="rect" id="node12" href="$_network_aware_view_controller_8h.html" title="InfoWebTests/NetworkAware\lViewController.h" alt="" coords="1060,187,1249,229"/>
+<area shape="rect" id="node14" href="$_ora_h_t_t_p_client_8m.html" title="InfoWebTests/OraHTTPClient.m" alt="" coords="1273,195,1476,221"/>
+<area shape="rect" id="node15" href="$_student_info_view_controller_8m.html" title="InfoWebTests/StudentInfo\lViewController.m" alt="" coords="1500,187,1668,229"/>
+<area shape="rect" id="node16" href="$_info_web_base_8h.html" title="InfoWebTestsTests/InfoWeb\lBase.h" alt="" coords="1692,187,1876,229"/>
+<area shape="rect" id="node21" href="$_info_web_base_8m.html" title="InfoWebTestsTests/InfoWeb\lBase.m" alt="" coords="1923,278,2107,319"/>
+<area shape="rect" id="node6" href="$_messages_table_view_controller_8h.html" title="InfoWebTests/MessagesTable\lViewController.h" alt="" coords="141,278,339,319"/>
+<area shape="rect" id="node8" href="$_network_aware_table_view_controller_8m.html" title="InfoWebTests/NetworkAware\lTableViewController.m" alt="" coords="364,278,553,319"/>
+<area shape="rect" id="node7" href="$_messages_table_view_controller_8m.html" title="InfoWebTests/MessagesTable\lViewController.m" alt="" coords="225,369,423,410"/>
+<area shape="rect" id="node13" href="$_network_aware_view_controller_8m.html" title="InfoWebTests/NetworkAware\lViewController.m" alt="" coords="1027,278,1216,319"/>
+<area shape="rect" id="node17" href="$_cache_tests_8h.html" title="InfoWebTestsTests/CacheTests.h" alt="" coords="1241,285,1455,312"/>
+<area shape="rect" id="node19" href="$_h_t_t_p_networking_tests_8h.html" title="InfoWebTestsTests/HTTPNetworking\lTests.h" alt="" coords="1479,278,1709,319"/>
+<area shape="rect" id="node22" href="$_utility_tests_8h.html" title="InfoWebTestsTests/Utility\lTests.h" alt="" coords="1734,278,1897,319"/>
+<area shape="rect" id="node18" href="$_cache_tests_8m.html" title="InfoWebTestsTests/CacheTests.m" alt="" coords="1236,376,1455,403"/>
+<area shape="rect" id="node20" href="$_h_t_t_p_networking_tests_8m.html" title="InfoWebTestsTests/HTTPNetworking\lTests.m" alt="" coords="1479,369,1709,410"/>
+<area shape="rect" id="node23" href="$_utility_tests_8m.html" title="InfoWebTestsTests/Utility\lTests.m" alt="" coords="1734,369,1897,410"/>
+</map>

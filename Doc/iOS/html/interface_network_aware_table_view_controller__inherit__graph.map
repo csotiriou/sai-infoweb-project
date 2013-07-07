@@ -1,0 +1,5 @@
+<map id="NetworkAwareTableViewController" name="NetworkAwareTableViewController">
+<area shape="rect" id="node6" href="$interface_messages_table_view_controller.html" title="MessagesTableViewController" alt="" coords="105,229,300,256"/>
+<area shape="rect" id="node2" href="$interface_pull_refresh_table_view_controller.html" title="PullRefreshTableViewController" alt="" coords="5,80,203,107"/>
+<area shape="rect" id="node4" href="$protocol_h_t_t_p_client_delegate-p.html" title="Protocol whose functions can be implemented by all objects willing to receive callback notifications ..." alt="" coords="227,80,377,107"/>
+</map>

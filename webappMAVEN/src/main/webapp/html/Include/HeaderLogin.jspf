@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Control Panel</title>
+	<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/html/css/general.css">
+</head>
+<body>
+	<div class="headerRounded">
+		Login to the control panel
+	</div>
+	<hr />

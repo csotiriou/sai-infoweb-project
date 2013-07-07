@@ -1,0 +1,4 @@
+<map id="ApiResponseStudentInfo" name="ApiResponseStudentInfo">
+<area shape="rect" id="node2" href="$interface_a_p_i_response.html" title="Implements the response for a request. Response JSON example: { &quot;error&quot;: false, &quot;errorDescription&quot;: n..." alt="" coords="18,155,120,181"/>
+<area shape="rect" id="node4" href="$protocol_a_p_i_protocol-p.html" title="\&lt;APIProtocol\&gt;" alt="" coords="108,80,209,107"/>
+</map>

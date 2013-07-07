@@ -1,0 +1,8 @@
+<map id="AFHTTPRequestOperation" name="AFHTTPRequestOperation">
+<area shape="rect" id="node7" href="$interface_a_f_image_request_operation.html" title="AFImageRequestOperation" alt="" coords="719,5,897,32"/>
+<area shape="rect" id="node8" href="$interface_a_f_j_s_o_n_request_operation.html" title="AFJSONRequestOperation" alt="" coords="719,56,897,83"/>
+<area shape="rect" id="node10" href="$interface_a_f_property_list_request_operation.html" title="AFPropertyListRequestOperation" alt="" coords="704,107,912,133"/>
+<area shape="rect" id="node11" href="$interface_a_f_x_m_l_request_operation.html" title="AFXMLRequestOperation" alt="" coords="724,157,892,184"/>
+<area shape="rect" id="node2" href="$interface_a_f_u_r_l_connection_operation.html" title="AFURLConnectionOperation" alt="" coords="249,81,431,108"/>
+<area shape="rect" id="node9" href="$interface_c_s_j_s_o_n_h_t_t_p_operation.html" title="CSJSONHTTPOperation" alt="" coords="961,56,1125,83"/>
+</map>

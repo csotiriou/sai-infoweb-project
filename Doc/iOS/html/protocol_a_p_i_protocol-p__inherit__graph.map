@@ -1,0 +1,9 @@
+<map id="&lt;APIProtocol&gt;" name="&lt;APIProtocol&gt;">
+<area shape="rect" id="node3" href="$interface_a_p_i_device.html" title="APIDevice" alt="" coords="57,155,140,181"/>
+<area shape="rect" id="node4" href="$interface_a_p_i_response.html" title="Implements the response for a request. Response JSON example: { &quot;error&quot;: false, &quot;errorDescription&quot;: n..." alt="" coords="215,155,317,181"/>
+<area shape="rect" id="node6" href="$interface_api_response_student_info.html" title="Implements the response for a student info request. Response JSON example: { &quot;error&quot;: false..." alt="" coords="5,229,168,256"/>
+<area shape="rect" id="node7" href="$interface_a_p_i_status_response.html" title="APIStatusResponse" alt="" coords="365,229,504,256"/>
+<area shape="rect" id="node8" href="$interface_a_p_i_student.html" title="APIStudent" alt="" coords="394,155,480,181"/>
+<area shape="rect" id="node9" href="$interface_c_s_message.html" title="CSMessage" alt="" coords="505,155,599,181"/>
+<area shape="rect" id="node5" href="$interface_a_p_i_response_student.html" title="APIResponseStudent" alt="" coords="193,229,340,256"/>
+</map>

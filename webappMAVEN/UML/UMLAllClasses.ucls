@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.3" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" language="java" name="com.oramind.abs.APIResponseInterface" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/abs/APIResponseInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="195" x="10943" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" language="java" name="com.oramind.abs.ViewServletInterface" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/abs/ViewServletInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="165" x="5006" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="com.oramind.abs.BeanInterface" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/abs/BeanInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="218" x="9091" y="2599"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="com.oramind.abs.OraServletBase" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/abs/OraServletBase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="149" x="890" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.oramind.abs.ViewServletAbstractClass" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/abs/ViewServletAbstractClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="353" x="5604" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.oramind.abs.AbstractBasicServiceServlet" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/abs/AbstractBasicServiceServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="465" x="6850" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.oramind.bean.StudentInfoBean" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/StudentInfoBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="289" x="9625" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.oramind.bean.PreferenceBean" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/PreferenceBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="218" x="8901" y="2029"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="com.oramind.bean.HasInvariant" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/HasInvariant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="149" x="9455" y="2029"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="com.oramind.bean.DeviceBean" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/DeviceBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="530" width="235" x="9159" y="2029"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.oramind.bean.AuthenticationTokenBean" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/AuthenticationTokenBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="218" x="8582" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.oramind.bean.StudentBean" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/StudentBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="548" width="220" x="9384" y="1441"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.oramind.bean.MessageBean" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/MessageBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="404" width="218" x="9954" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.oramind.bean.UserBean" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/UserBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="350" width="218" x="8861" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.oramind.bean.RegistrationBean" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/RegistrationBean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="332" width="218" x="8343" y="2029"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.oramind.bean.MessageBeanWeb" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/bean/MessageBeanWeb.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="440" width="218" x="8622" y="2029"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.oramind.dao.UserDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/UserDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="289" x="2455" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.oramind.dao.StudentDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/StudentDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="308" x="4146" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="19" language="java" name="com.oramind.dao.AbstractDAO.QueryType" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/AbstractDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="252" x="1782" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </enumeration>  
+  <interface id="20" language="java" name="com.oramind.dao.DAOInterface" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/DAOInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="255" x="3851" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="com.oramind.dao.StudentInfoDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/StudentInfoDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="296" x="4494" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.oramind.dao.SetupDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/SetupDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="191" x="2784" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.oramind.dao.RegistrationDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/RegistrationDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="507" x="3015" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.oramind.dao.MessageDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/MessageDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="394" x="4830" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.oramind.dao.DeviceDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/DeviceDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="242" width="341" x="2074" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.oramind.dao.ServiceDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/ServiceDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="404" width="507" x="890" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.oramind.dao.PreferenceDao" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/PreferenceDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="249" x="3562" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.oramind.dao.AbstractDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/AbstractDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="456" x="3562" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.oramind.db.DataPoolBoneCP" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/db/DataPoolBoneCP.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="216" x="1079" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="com.oramind.db.DBProperties" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/db/DBProperties.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="173" x="5264" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="com.oramind.db.Datapool" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/db/Datapool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="216" x="2431" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.oramind.db.DBConfig" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/db/DBConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="239" x="1641" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.oramind.exceptions.ServiceException" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/exceptions/ServiceException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="177" x="3345" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.oramind.globals.SessionListener" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/globals/SessionListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="255" x="3050" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.oramind.globals.AppListener" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/globals/AppListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="266" x="1335" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.oramind.messengers.PushiOSService" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/messengers/PushiOSService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="271" x="11699" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="37" language="java" name="com.oramind.messengers.MessagingInterface" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/messengers/MessagingInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="253" x="12010" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="38" language="java" name="com.oramind.messengers.AbstractMessenger" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/messengers/AbstractMessenger.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="253" x="12166" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.oramind.messengers.PushAndroidService" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/messengers/PushAndroidService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="253" x="12651" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="com.oramind.messengers.MailMessenger" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/messengers/MailMessenger.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="308" x="12303" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="com.oramind.messengers.MessageOperationResult" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/messengers/MessageOperationResult.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="218" x="1920" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="com.oramind.model.APIResponseUserInfo" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponseUserInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="210" x="8793" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.oramind.model.ApiResponseError" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/ApiResponseError.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="195" x="10983" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.oramind.model.APIResponseDeviceStatus" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponseDeviceStatus.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="206" x="11453" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.oramind.model.APIResponseRegistered" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponseRegistered.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="195" x="11218" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="com.oramind.model.ApiResponseStudentInfoStats" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/ApiResponseStudentInfoStats.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="288" x="9994" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="com.oramind.model.APIResponseStudentInfo" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponseStudentInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="242" x="9384" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="com.oramind.model.APIResponseNewToken" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponseNewToken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="309" x="8444" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="com.oramind.model.APIResponseStringResponse" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponseStringResponse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="264" x="10658" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="com.oramind.model.APIResponseStudentRegistration" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponseStudentRegistration.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="288" x="9666" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="com.oramind.model.APIResponse" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="197" x="10322" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="com.oramind.model.APIResponseGetMessages" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponseGetMessages.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="296" x="10322" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="com.oramind.model.APIResponseMessageDetails" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/model/APIResponseMessageDetails.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="301" x="9043" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="com.oramind.pages.Panel" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/pages/Panel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="347" x="4619" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="com.oramind.pages.DeleteStudent" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/pages/DeleteStudent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="353" x="5211" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="com.oramind.pages.SendMessage" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/pages/SendMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="353" x="5991" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="com.oramind.pages.ExceptionCausingPage" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/pages/ExceptionCausingPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="323" x="7213" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="com.oramind.pages.EditStudent" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/pages/EditStudent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="347" x="5604" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="com.oramind.pages.ListMessages" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/pages/ListMessages.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="347" x="6777" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="com.oramind.pages.DeleteDevice" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/pages/DeleteDevice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="353" x="6384" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="com.oramind.pages.ErrorPage" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/pages/ErrorPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="323" x="2687" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="com.oramind.service.Service" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/service/Service.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="450" x="5997" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="com.oramind.service.StressTests" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/service/StressTests.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="465" x="7576" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="com.oramind.service.LogoutServlet" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/service/LogoutServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="323" x="8081" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="com.oramind.service.ServletFilter" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/service/ServletFilter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="504" x="346" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="com.oramind.service.LoginServlet" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/service/LoginServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="323" x="6487" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="com.oramind.service.Registration" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/service/Registration.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="323" x="6850" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="com.oramind.util.PropertiesGetter" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/util/PropertiesGetter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="300" x="5264" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="com.oramind.util.Util" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/util/Util.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="242" width="265" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="config.ErrorCodes" project="webapp" 
+    file="/webapp/src/main/java/config/ErrorCodes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="213" x="2178" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="72">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="73" name="instance"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="75">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <association id="76">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="77" name="dao"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <nesting id="80">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <generalization id="81">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="82">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="83" name="devices"/>      
+      <multiplicity id="84" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="85">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="86">    
+    <bendpoint x="9634" y="1441"/>    
+    <bendpoint x="9634" y="2029"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <realization id="88">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <association id="89">    
+    <bendpoint x="9393" y="997"/>    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="90" name="student"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="92">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <realization id="93">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="95">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="96">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="97">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <realization id="98">    
+    <bendpoint x="9424" y="2029"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="99">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="100">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="101" name="studentInfo"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="103">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <generalization id="104">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="105">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <generalization id="106">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="107">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="108">    
+    <bendpoint x="9223" y="997"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="109" name="students"/>      
+      <multiplicity id="110" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="111">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <realization id="112">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="113">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="114">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="115">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="116">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <generalization id="117">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="118">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="119">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="120">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <realization id="121">    
+    <bendpoint x="9655" y="1441"/>    
+    <bendpoint x="9655" y="2029"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="122">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <realization id="123">    
+    <bendpoint x="10952" y="553"/>    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <generalization id="124">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <realization id="125">    
+    <bendpoint x="8591" y="1441"/>    
+    <bendpoint x="8591" y="2029"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="126">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <generalization id="127">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <association id="128">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="129" name="userBean"/>      
+      <multiplicity id="130" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="131">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="132">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <generalization id="133">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <realization id="134">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <association id="135">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="136" name="messages"/>      
+      <multiplicity id="137" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="138">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="37"/>  
+  </realization>  
+  <realization id="139">    
+    <bendpoint x="8870" y="1441"/>    
+    <bendpoint x="8870" y="2029"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <association id="140">    
+    <bendpoint x="9534" y="997"/>    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="141" name="student"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="143">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <generalization id="144">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="145">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="146" name="properties"/>      
+      <multiplicity id="147" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="148">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="149" name="authenticationToken"/>      
+      <multiplicity id="150" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="151">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <association id="152">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="153" name="studentBean"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="155">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <generalization id="156">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="false" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

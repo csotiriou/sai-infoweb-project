@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.3" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="com.oramind.dao.UserDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/UserDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="289" x="504" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.oramind.dao.StudentDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/StudentDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="308" x="156" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="3" language="java" name="com.oramind.dao.AbstractDAO.QueryType" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/AbstractDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="252" x="-136" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <interface id="4" language="java" name="com.oramind.dao.DAOInterface" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/DAOInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="255" x="833" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="com.oramind.dao.StudentInfoDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/StudentInfoDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="296" x="1128" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.oramind.dao.SetupDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/SetupDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="230" x="1464" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.oramind.dao.RegistrationDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/RegistrationDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="507" x="2549" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.oramind.dao.MessageDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/MessageDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="394" x="2115" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.oramind.dao.DeviceDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/DeviceDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="242" width="341" x="1734" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.oramind.dao.ServiceDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/ServiceDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="422" width="507" x="331" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.oramind.dao.PreferenceDao" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/PreferenceDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="249" x="3096" y="586"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.oramind.dao.AbstractDAO" project="webapp" 
+    file="/webapp/src/main/java/com/oramind/dao/AbstractDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="476" width="456" x="1345" y="70"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <realization id="15">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <nesting id="22">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
